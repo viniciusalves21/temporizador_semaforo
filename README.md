@@ -1,4 +1,4 @@
-# Controle de LEDs RGB com Temporizador (Raspberry Pi Pico)
+# Controle de LEDs RGB com Temporizador (Raspberry Pi Pico - BitDogLab)
 
 Este projeto demonstra o uso de um temporizador repetitivo no Raspberry Pi Pico para controlar um LED RGB, acendendo cada cor individualmente em sequência.
 
